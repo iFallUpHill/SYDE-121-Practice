@@ -1,0 +1,1 @@
+Projects created to practice concepts covered in class.
